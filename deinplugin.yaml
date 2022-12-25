@@ -1,0 +1,17 @@
+specVersion: 1
+type: plugin
+name: Spectating Tool
+authors:
+  - PhilCode
+supportedGameVersions: ^1.19
+category: adminTool
+introduction: Ein Simples Admintool zum Beobachten von Spielern
+description: |
+  # Überblick
+  Ein Simples spectating System
+  # Befehle:
+  - /spec <Spieler>
+  - /endSpec
+  # Permissions:
+  spec.use
+icon: https://cdn-icons-png.flaticon.com/512/9264/9264266.png

@@ -1,0 +1,10 @@
+name: Spec
+version: 1.0
+author: PhilCode
+main: de.philipp.spec.Spec
+
+commands:
+  spec:
+    description: Beobachte Spieler
+  endSpec:
+    description: Höre auf einen Spieler zu beobachten
